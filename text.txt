@@ -1,0 +1,48 @@
+Last login: Wed Jul  8 07:02:34 on ttys000
+Dominiques-MacBook-Air:~ dominiquetorres$ cd Downloads
+Dominiques-MacBook-Air:Downloads dominiquetorres$ cd Practice
+Dominiques-MacBook-Air:Practice dominiquetorres$ git add test.txt
+fatal: pathspec 'test.txt' did not match any files
+Dominiques-MacBook-Air:Practice dominiquetorres$ vi test.txt
+Dominiques-MacBook-Air:Practice dominiquetorres$ git add test.txt
+fatal: pathspec 'test.txt' did not match any files
+Dominiques-MacBook-Air:Practice dominiquetorres$ vi test.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+"test.txt" [New File]
